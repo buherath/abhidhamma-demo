@@ -9,11 +9,32 @@
     <lastBuildDate>Fri, 09 Feb 2024 10:57:40 +1000</lastBuildDate>
     <atom:link href="https://buherath.github.io/abhidhamma-demo/learn/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ත්‍රිපිටකය පුස්තකාලය</title>
+      <link>https://buherath.github.io/abhidhamma-demo/learn/books/tipitaka-lk-library/</link>
+      <pubDate>Mon, 26 Feb 2024 10:57:40 +1000</pubDate>
+      <guid>https://buherath.github.io/abhidhamma-demo/learn/books/tipitaka-lk-library/</guid>
+      <description>මෙහි ඇතුළත් කර ඇති පොත් බොහොමයක් පැරණි බෞද්ධ පොත් වන අතර ධර්ම දානය සඳහා ලියන ලද පොත් වේ. පහත අභිධර්මය පිලිබඳ පොත් tipitaka.lk පුස්තකාලයෙන් බාගත කල හැකිය.</description>
+    </item>
+    <item>
+      <title>අභිධර්ම මාර්ගය</title>
+      <link>https://buherath.github.io/abhidhamma-demo/learn/books/ven_rerukane_chandawimala_abdhidharma_margaya/</link>
+      <pubDate>Wed, 21 Feb 2024 10:57:40 +1000</pubDate>
+      <guid>https://buherath.github.io/abhidhamma-demo/learn/books/ven_rerukane_chandawimala_abdhidharma_margaya/</guid>
+      <description>අප විසින් සම්පාදිත දහම් පොත් කියවූ ගිහි පැවිදි බොහෝ දෙනකුන් විසින් හා දහම් පාසල් පවත්වන, ඒවායේ උගන්වන බොහෝ දෙනකුන් විසින් ද තේරුම් ගැනීමට උගෙනීමට උගැන්වීමට පහසු අභිධර්ම ග්‍ර‍න්ථයක් සම්පාදනය කරන ලෙස නොයෙක් වර ආරාධනා කළ බැවින් අප විසින් අභිධර්ම මාර්ගය නැමැති මේ ග්‍ර‍න්ථය සම්පාදනය කරන ලදී.</description>
+    </item>
+    <item>
+      <title>අභිධර්මයේ මූලික කරුණු</title>
+      <link>https://buherath.github.io/abhidhamma-demo/learn/books/ven_rerukane_chandawimala_abdhidharmaye_mulika_karunu/</link>
+      <pubDate>Wed, 21 Feb 2024 10:57:40 +1000</pubDate>
+      <guid>https://buherath.github.io/abhidhamma-demo/learn/books/ven_rerukane_chandawimala_abdhidharmaye_mulika_karunu/</guid>
+      <description>“අභිධර්මයේ මූලික කරුණු” නමැති මේ පොත අප විසින් සම්පාදනය කරන ලද්දේ මෙයින් ම අභිධර්මය උගෙනීමට නොවේ.</description>
+    </item>
+    <item>
       <title>බෞද්ධයාගේ අත්පොත</title>
       <link>https://buherath.github.io/abhidhamma-demo/learn/books/ven-rerukane-chandawimala-bauddhayage-athpotha/</link>
       <pubDate>Wed, 21 Feb 2024 10:57:40 +1000</pubDate>
       <guid>https://buherath.github.io/abhidhamma-demo/learn/books/ven-rerukane-chandawimala-bauddhayage-athpotha/</guid>
-      <description>පරම ගම්භීර වූ අභිධර්මය මුලසිට සරලව උගන්වන සදහම් වැඩසටහනට පින්වත් ඔබත් සම්බන්ධ වන්න.</description>
+      <description>බෞද්ධකම උපතින් හිමිවන්නක් නොවේ. නියම බෞද්ධයාට අවශ්‍ය මූලික දැනුම ලබාගැනීමටත් බෞද්ධකු වශයෙන් හැසිරීමට අවශ්‍ය හැදියාව ලබා ගැනීමටත් මුලින්ම කියවිය යුතු පොතකි.</description>
     </item>
   </channel>
 </rss>

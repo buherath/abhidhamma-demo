@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://buherath.github.io/abhidhamma-demo/learn/books/tipitaka-lk-library/</loc>
+    <lastmod>2024-02-26T10:57:40+10:00</lastmod>
+  </url><url>
+    <loc>https://buherath.github.io/abhidhamma-demo/learn/books/ven_rerukane_chandawimala_abdhidharma_margaya/</loc>
+    <lastmod>2024-02-21T10:57:40+10:00</lastmod>
+  </url><url>
     <loc>https://buherath.github.io/abhidhamma-demo/learn/lectures/abhidhamma-simplified-from-the-beginning/</loc>
     <lastmod>2024-02-21T10:57:40+10:00</lastmod>
   </url><url>
     <loc>https://buherath.github.io/abhidhamma-demo/learn/lectures/iit-a-start-to-abhidhamma/</loc>
+    <lastmod>2024-02-21T10:57:40+10:00</lastmod>
+  </url><url>
+    <loc>https://buherath.github.io/abhidhamma-demo/learn/books/ven_rerukane_chandawimala_abdhidharmaye_mulika_karunu/</loc>
     <lastmod>2024-02-21T10:57:40+10:00</lastmod>
   </url><url>
     <loc>https://buherath.github.io/abhidhamma-demo/learn/lectures/paramatta-deshana-2022-abhidhamma-lessons/</loc>
@@ -17,16 +26,10 @@
     <loc>https://buherath.github.io/abhidhamma-demo/learn/lectures/pauranika-theravada-abdhidhamma-lessons/</loc>
     <lastmod>2024-02-20T10:57:40+10:00</lastmod>
   </url><url>
-    <loc>https://buherath.github.io/abhidhamma-demo/abhidhamma-contents/1-dhammasangani-preface/</loc>
-    <lastmod>2024-02-10T14:36:24+10:00</lastmod>
-  </url><url>
-    <loc>https://buherath.github.io/abhidhamma-demo/abhidhamma-contents/2-vibhanga-1-preface/</loc>
-    <lastmod>2024-02-10T14:36:24+10:00</lastmod>
-  </url><url>
-    <loc>https://buherath.github.io/abhidhamma-demo/abhidhamma-contents/2-vibhanga-2-preface/</loc>
-    <lastmod>2024-02-10T14:36:24+10:00</lastmod>
-  </url><url>
     <loc>https://buherath.github.io/abhidhamma-demo/abhidhamma-contents/3-kathawasthu-preface/</loc>
+    <lastmod>2024-02-10T14:36:24+10:00</lastmod>
+  </url><url>
+    <loc>https://buherath.github.io/abhidhamma-demo/abhidhamma-contents/1-dhammasangani-preface/</loc>
     <lastmod>2024-02-10T14:36:24+10:00</lastmod>
   </url><url>
     <loc>https://buherath.github.io/abhidhamma-demo/abhidhamma-contents/4-dhatukatha-and-puggalapannatti-preface/</loc>
@@ -36,6 +39,12 @@
     <lastmod>2024-02-10T14:36:24+10:00</lastmod>
   </url><url>
     <loc>https://buherath.github.io/abhidhamma-demo/abhidhamma-contents/5-yamaka-2-preface/</loc>
+    <lastmod>2024-02-10T14:36:24+10:00</lastmod>
+  </url><url>
+    <loc>https://buherath.github.io/abhidhamma-demo/abhidhamma-contents/2-vibhanga-1-preface/</loc>
+    <lastmod>2024-02-10T14:36:24+10:00</lastmod>
+  </url><url>
+    <loc>https://buherath.github.io/abhidhamma-demo/abhidhamma-contents/2-vibhanga-2-preface/</loc>
     <lastmod>2024-02-10T14:36:24+10:00</lastmod>
   </url><url>
     <loc>https://buherath.github.io/abhidhamma-demo/learn/lectures/ven-digana-sugathawansha-abhidhamma-lessons/</loc>
@@ -81,9 +90,6 @@
     <lastmod>2024-02-09T10:57:40+10:00</lastmod>
   </url><url>
     <loc>https://buherath.github.io/abhidhamma-demo/learn/</loc>
-    <lastmod>2024-02-09T10:57:40+10:00</lastmod>
-  </url><url>
-    <loc>https://buherath.github.io/abhidhamma-demo/learn/learn-introduction/</loc>
     <lastmod>2024-02-09T10:57:40+10:00</lastmod>
   </url><url>
     <loc>https://buherath.github.io/abhidhamma-demo/responses-to-critics/answers-to-a-few-questions-about-abhidhamma/</loc>

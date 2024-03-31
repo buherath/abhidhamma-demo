@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>1. ධර්‍මසඞ්ගණිප්පකරණය පෙරවදන | අභිධර්මය</title>
+    <title>ධර්‍මසඞ්ගණිප්පකරණය පෙරවදන | අභිධර්මය</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Sinhala:wdth,wght@93.8,100..900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles/styles.css">
 
-      <link rel="stylesheet" href="/abhidhamma-demo/css/main.min.2b21e10d8bbee93a2a70d7076a86d976f22ead1e2780c545166fc46306722a7f.css" integrity="sha256-KyHhDYu&#43;6ToqcNcHaobZdvIurR4ngMVFFm/EYwZyKn8=" crossorigin="anonymous">
+      <link rel="stylesheet" href="/abhidhamma-demo/css/main.min.f8a7f91aab26abe9f26530bac08013964afddb5720c365c0cba542c6ee6dac0f.css" integrity="sha256-&#43;Kf5Gqsmq&#43;nyZTC6wIATlkr921cgw2XAy6VCxu5trA8=" crossorigin="anonymous">
 
 
       <script src="/abhidhamma-demo/js/main.23cd0c7d837263b9eaeb96ee2d9ccfa2969daa3fa00fa1c1fe8701a9b87251a1.js" integrity="sha256-I80MfYNyY7nq65buLZzPopadqj&#43;gD6HB/ocBqbhyUaE=" crossorigin="anonymous"></script>
@@ -152,7 +152,7 @@
                                 
                                 
                                 <li>
-                                    <a class="dropdown-item" href="/abhidhamma-demo/learn/learn-introduction">
+                                    <a class="dropdown-item" href="/abhidhamma-demo/learn">
                                         <span>හැඳින්වීම</span>
                                     </a>
                                 </li>
@@ -176,14 +176,6 @@
                                 <li>
                                     <a class="dropdown-item" href="/abhidhamma-demo/learn/books">
                                         <span>පොත්</span>
-                                    </a>
-                                </li>
-                                
-                                
-                                
-                                <li>
-                                    <a class="dropdown-item" href="/abhidhamma-demo/learn/articles">
-                                        <span>ලිපි</span>
                                     </a>
                                 </li>
                                 
@@ -288,12 +280,12 @@
         
             <li class="breadcrumb-item"><a href="/abhidhamma-demo/abhidhamma-contents/">අන්තර්ගතය</a></li>
         
-        <li class="breadcrumb-item active" aria-current="page"><a aria-current="page" href="/abhidhamma-demo/abhidhamma-contents/1-dhammasangani-preface/">1. ධර්‍මසඞ්ගණිප්පකරණය පෙරවදන</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a aria-current="page" href="/abhidhamma-demo/abhidhamma-contents/1-dhammasangani-preface/">ධර්‍මසඞ්ගණිප්පකරණය පෙරවදන</a></li>
       </ol>
     </nav>
   </div>
         <div class="page-title">
-          <h1>1. ධර්‍මසඞ්ගණිප්පකරණය පෙරවදන</h1>
+          <h1>ධර්‍මසඞ්ගණිප්පකරණය පෙරවදන</h1>
         </div>
         <div class="page-content my-4">
           <div class="page-content-text">
@@ -485,15 +477,32 @@ iii අභිධර්‍මය ප්‍රථම සඞ්ගීතියෙ�
       </div>
     </div>
     <div class="sidebar col-lg-4 d-none d-lg-block" >
-    
+    <div class="widget search-box">
 
-
-<div class="widget search-box">
-  
-  <form class="d-flex" role="search">
-      <input class="form-control me-2" type="search" placeholder="සොයන්න" aria-label="Search">
-      <button class="btn btn-secondary" type="submit"><i class="bi bi-search"></i></button>
-    </form>
+  <link href="https://buherath.github.io/abhidhamma-demo/pagefind/pagefind-ui.css" rel="stylesheet">
+  <script src="https://buherath.github.io/abhidhamma-demo/pagefind/pagefind-ui.js"></script>
+  <div id="search"></div>
+  <script>
+      window.addEventListener('DOMContentLoaded', (event) => {
+          new PagefindUI({ element: "#search", 
+          showSubResults: false,
+          excerptLength: 15, 
+          showImages: false,
+          translations: {
+            placeholder: "සොයන්න",
+            zero_results: "කිසිවක් සොයාගත නොහැක",
+            clear_search: "නැවත සොයන්න",
+            load_more: "තවත් සෙවුම් මෙතනින්",
+            search_label: "සොයන්න",
+            filters_label: "ෆිල්ටර් යොදන්න",
+            many_results: "[SEARCH_TERM] වචනයට සෙවුම් ගණන [COUNT]",
+            one_result: "[SEARCH_TERM] වචනයට සෙවුම් ගණන [COUNT]",
+            alt_search: "[SEARCH_TERM] වචනයට කිසිවක් සොයාගත නොහැක. එහෙත් [DIFFERENT_TERM] වචනයට සෙවුම් ඇත.",
+            search_suggestion: "[SEARCH_TERM] වචනයට කිසිවක් සොයාගත නොහැක. පහත ඇති සෙවුම් උත්සහ කර බලන්න: ",
+            searching: "[SEARCH_TERM] වචනයට සොයනවා..."
+        }});
+      });
+  </script>
 </div>
     <div class="widget">
   <div class="panel-frame rounded-1">
@@ -505,6 +514,14 @@ iii අභිධර්‍මය ප්‍රථම සඞ්ගීතියෙ�
       
       
       <div class="panel-item">
+        <li><a class="link-opacity-10-hover" href="https://buherath.github.io/abhidhamma-demo/learn/books/tipitaka-lk-library/">ත්‍රිපිටකය පුස්තකාලය</a></li>
+      </div>
+      
+      <div class="panel-item">
+        <li><a class="link-opacity-10-hover" href="https://buherath.github.io/abhidhamma-demo/learn/books/ven_rerukane_chandawimala_abdhidharma_margaya/">අභිධර්ම මාර්ගය</a></li>
+      </div>
+      
+      <div class="panel-item">
         <li><a class="link-opacity-10-hover" href="https://buherath.github.io/abhidhamma-demo/learn/lectures/abhidhamma-simplified-from-the-beginning/">අභිධර්මය මුලසිට සරලව</a></li>
       </div>
       
@@ -513,15 +530,7 @@ iii අභිධර්‍මය ප්‍රථම සඞ්ගීතියෙ�
       </div>
       
       <div class="panel-item">
-        <li><a class="link-opacity-10-hover" href="https://buherath.github.io/abhidhamma-demo/learn/lectures/paramatta-deshana-2022-abhidhamma-lessons/">පරමාර්ථ දේශනා - 2022 අභිධර්‍මය අලුත් පංතිය</a></li>
-      </div>
-      
-      <div class="panel-item">
-        <li><a class="link-opacity-10-hover" href="https://buherath.github.io/abhidhamma-demo/learn/books/ven-rerukane-chandawimala-bauddhayage-athpotha/">බෞද්ධයාගේ අත්පොත</a></li>
-      </div>
-      
-      <div class="panel-item">
-        <li><a class="link-opacity-10-hover" href="https://buherath.github.io/abhidhamma-demo/learn/lectures/pauranika-theravada-abdhidhamma-lessons/">පෞරාණික ථේරවාදය - අභිධර්මය පාඩම් මාලාව</a></li>
+        <li><a class="link-opacity-10-hover" href="https://buherath.github.io/abhidhamma-demo/learn/books/ven_rerukane_chandawimala_abdhidharmaye_mulika_karunu/">අභිධර්මයේ මූලික කරුණු</a></li>
       </div>
       
     </ul>
