@@ -9,6 +9,20 @@
     <lastBuildDate>Fri, 09 Feb 2024 10:57:40 +1000</lastBuildDate>
     <atom:link href="https://buherath.github.io/abhidhamma-demo/learn/lectures/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>පූජ්‍ය තපෝවනයේ රතන හිමි - අභිධර්ම පන්තිය</title>
+      <link>https://buherath.github.io/abhidhamma-demo/learn/lectures/ven-thapowanaye-rathana-thero-abhidhamma-class/</link>
+      <pubDate>Sat, 09 Mar 2024 12:00:57 +1000</pubDate>
+      <guid>https://buherath.github.io/abhidhamma-demo/learn/lectures/ven-thapowanaye-rathana-thero-abhidhamma-class/</guid>
+      <description>පූජ්‍ය තපෝවනයේ රතන හිමි - අභිධර්ම පන්තිය</description>
+    </item>
+    <item>
+      <title>මාකඩුවාවේ සුධම්මරක්ඛිත ස්වාමින් වහන්සේ - අභිධර්ම පාඩම</title>
+      <link>https://buherath.github.io/abhidhamma-demo/learn/lectures/ven-makaduwawe-sudhammarakkhitha-abhidhamma-lesson/</link>
+      <pubDate>Sat, 09 Mar 2024 12:00:57 +1000</pubDate>
+      <guid>https://buherath.github.io/abhidhamma-demo/learn/lectures/ven-makaduwawe-sudhammarakkhitha-abhidhamma-lesson/</guid>
+      <description>පරමගම්භීර වූ අභිධර්මය මුලසිට සරලව උගන්වන සදහම් වැඩසටහනට පින්වත් ඔබත් සම්බන්ධ වන්න.</description>
+    </item>
+    <item>
       <title>අභිධර්මය මුලසිට සරලව</title>
       <link>https://buherath.github.io/abhidhamma-demo/learn/lectures/abhidhamma-simplified-from-the-beginning/</link>
       <pubDate>Wed, 21 Feb 2024 10:57:40 +1000</pubDate>
@@ -21,6 +35,13 @@
       <pubDate>Wed, 21 Feb 2024 10:57:40 +1000</pubDate>
       <guid>https://buherath.github.io/abhidhamma-demo/learn/lectures/iit-a-start-to-abhidhamma/</guid>
       <description>බිනර පුර පසළොස්වක පොහෝදින, අන්තර්ජාතික ථෙරවාද ධර්මායතනයේ සිට පවත්වනු ලැබූ දහම් වැඩසටහන.</description>
+    </item>
+    <item>
+      <title>පට්ඨාන දේශනා ත්‍රිරාශිය</title>
+      <link>https://buherath.github.io/abhidhamma-demo/learn/lectures/ven-kaduwela-atulanana-thero-pattana-deshana-thrirashiya/</link>
+      <pubDate>Wed, 21 Feb 2024 10:57:40 +1000</pubDate>
+      <guid>https://buherath.github.io/abhidhamma-demo/learn/lectures/ven-kaduwela-atulanana-thero-pattana-deshana-thrirashiya/</guid>
+      <description>අභිධර්ම දේශනාවේදී භාග්‍යවතුන් වහන්සේගේ හේතු ඵල ධර්ම දේශනා අතරින් ගැඹුරුම දේශනාව වන්නේ සූවිසි ප්‍රත්‍යය (Suvisi Prathya) දේශනාවයි. එය ඇතුලත් වන්නේ පට්ඨාන (pattana) ප්‍රකරණයෙහි ය. මෙම පට්ඨාන ත්‍රිරාශිය දේශනා මාලාව පට්ඨානය ඉගෙන ගැනීම සඳහා වන පදනමයි.</description>
     </item>
     <item>
       <title>පරමාර්ථ දේශනා - 2022 අභිධර්‍මය අලුත් පංතිය</title>
@@ -49,6 +70,13 @@
       <pubDate>Sat, 10 Feb 2024 12:00:57 +1000</pubDate>
       <guid>https://buherath.github.io/abhidhamma-demo/learn/lectures/ven-digana-sugathawansha-introduction-to-abhidhamma-series/</guid>
       <description>අභිධර්මය හඳුන්වාදීම දේශනා මාලාව</description>
+    </item>
+    <item>
+      <title>පට්ඨාන ⁣ධර්ම දේශනා මාලාව</title>
+      <link>https://buherath.github.io/abhidhamma-demo/learn/lectures/ven-digana-sugathawansha-introduction-to-pattana/</link>
+      <pubDate>Sat, 10 Feb 2024 12:00:57 +1000</pubDate>
+      <guid>https://buherath.github.io/abhidhamma-demo/learn/lectures/ven-digana-sugathawansha-introduction-to-pattana/</guid>
+      <description>පට්ඨාන ⁣ධර්ම දේශනා මාලාව</description>
     </item>
     <item>
       <title>ජීවිතයට අභිධර්මය</title>
